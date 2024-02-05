@@ -1,0 +1,19 @@
+{
+  "name": "node-testing",
+  "version": "1.0.0",
+  "description": "node js testing tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajesh7889/nodetesting.git"
+  },
+  "author": "rajesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajesh7889/nodetesting/issues"
+  },
+  "homepage": "https://github.com/Rajesh7889/nodetesting#readme"
+}
